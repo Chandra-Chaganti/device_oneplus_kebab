@@ -3,14 +3,14 @@
 # ACDB
 vendor/etc/acdbdata/adsp_avs_config.acdb
 vendor/etc/acdbdata/MTP/acdb_version
-vendor/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb
-vendor/etc/acdbdata/MTP/MTP_General_cal.acdb
-vendor/etc/acdbdata/MTP/MTP_Global_cal.acdb
-vendor/etc/acdbdata/MTP/MTP_Handset_cal.acdb
-vendor/etc/acdbdata/MTP/MTP_Hdmi_cal.acdb
-vendor/etc/acdbdata/MTP/MTP_Headset_cal.acdb
-vendor/etc/acdbdata/MTP/MTP_Speaker_cal.acdb
-vendor/etc/acdbdata/MTP/MTP_workspaceFile.qwsp
+vendor/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb|0720e92dcbd83672618dc6797c25b2add75e98bb
+vendor/etc/acdbdata/MTP/MTP_General_cal.acdb|61cd4cbf8b15e05167d777b2f716dae12cac5af4
+vendor/etc/acdbdata/MTP/MTP_Global_cal.acdb|fe0465b1479ead16a5cfabac54d2b3267b671f32
+vendor/etc/acdbdata/MTP/MTP_Handset_cal.acdb|3c39cbdecfcf6510c7377d6501efd54a13dfaf20
+vendor/etc/acdbdata/MTP/MTP_Hdmi_cal.acdb|7338ee9f3a8b31e957ec81e8fdf0a2dbaeeadfba
+vendor/etc/acdbdata/MTP/MTP_Headset_cal.acdb|c08b34297b3d571ca73226fc700b07cb9f88ffc5
+vendor/etc/acdbdata/MTP/MTP_Speaker_cal.acdb|b25cf289486b74ed3f27aa1b05a4ff7a2201c819
+vendor/etc/acdbdata/MTP/MTP_workspaceFile.qwsp|9dc43de5d2b677401cdbc669588dea2ced93dcf0
 
 # Audio firmware
 vendor/firmware/tfa98xx.cnt
